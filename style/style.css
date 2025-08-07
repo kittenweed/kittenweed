@@ -4,7 +4,7 @@
 
 body {
   background-color: #436a7b;
-  background-image: url('../images/bg_diamond.png');
+  background-image: url('../images/background.gif');
 	background-position: top;
   font-size: 18px;
   font-family: Georgia, "Times New Roman", serif;
@@ -16,7 +16,7 @@ p {
 }
 
 hr {
-  border: solid #c7b591;
+  border: solid #DC6ACF;
   border-width: 2px 0 0 0;
 }
 
@@ -53,7 +53,7 @@ img {
 }
 
 a:hover { 
-  background-color: #fff6e6;
+  background-color: #39375b;
 }
 
 h1, h2, h3, h4, h5 {
@@ -66,9 +66,9 @@ h1, h2, h3, h4, h5 {
   margin: 3em auto;
   width: 90%;
 	max-width: 700px;
-	background-color: #f1e3c9;
+	background-color: #745c97;
   color: #151515; 
-  outline-color: #a9a9a9;
+  outline-color: #dc6acf;
   outline-style: ridge;
   outline-width: 4px;
   outline-offset: 0;
@@ -81,9 +81,9 @@ h1, h2, h3, h4, h5 {
 
 /*HEADER STYLE*/
 #header {
-  background-color: #384879;
+  background-color: #dc6acf;
   padding: 0 5%;
-  border-color: #a9a9a9;
+  border-color: #745c97;
   border-style: ridge;
   border-width: 0 0 4px 0;
 }
